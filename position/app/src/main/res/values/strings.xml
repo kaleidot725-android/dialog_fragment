@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="dialog_title">Title</string>
+    <string name="dialog_positive">Positive</string>
+    <string name="dialog_negative">Negative</string>
+</resources>
